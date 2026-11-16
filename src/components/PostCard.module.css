@@ -1,0 +1,49 @@
+.postCard {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid;
+  border-color: var(--shadow);
+  background-color: var(--bg-card);
+  border-radius: var(--br-main);
+  padding: 8px 16px;
+  margin: 4px;
+  gap: 12px;
+}
+
+.avatar {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.post {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.up {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+}
+
+.leftUp {
+  display: flex;
+  gap: 4px;
+}
+
+.textOfCard {
+  font-size: 16px;
+  line-height: 20px;
+  overflow-wrap: break-word;
+}
+
+.bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 14px;
+  line-height: 16px;
+}

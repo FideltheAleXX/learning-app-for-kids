@@ -1,0 +1,26 @@
+:root {
+  --bg-card: #ffffff;
+  --bg-main: #e8e8e8;
+  --shadow: #d1d1d1;
+  --text-main: #333c4d;
+
+  --primary-clr: #66cc8a;
+  --primary-clr-text: #223d30;
+
+  --secondary-clr: #377cfb;
+  --secondary-clr-text: #ffffff;
+
+  --accent-clr: #f68067;
+  --accent-cle-text: #000000;
+
+  --btn-color: #333c4d;
+  --btn-color-text: #f9fafb;
+
+  --info: #00b5ff;
+  --info-text: #000000;
+
+  --error-clr: #ff5861;
+  --error-clr-text: #000000;
+
+  --br-main: 1rem;
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Chuck Pallanick",
+    "book": "Kolobok",
+    "tag": "",
+    "time": "",
+    "quote": "Hello. What did I see? - Nothing"
+  },
+  {
+    "id": 2,
+    "name": "Jane Austen",
+    "book": "Pride and Prejudice",
+    "quote": "A quiet morning can change the shape of an entire day."
+  },
+  {
+    "id": 3,
+    "name": "George Orwell",
+    "book": "Animal Farm",
+    "quote": "Even the smallest voice can make a room feel less empty."
+  },
+  {
+    "id": 4,
+    "name": "Mary Shelley",
+    "book": "Frankenstein",
+    "quote": "The night was dark, but curiosity carried a lantern."
+  },
+  {
+    "id": 5,
+    "name": "Mark Twain",
+    "book": "The Adventures of Tom Sawyer",
+    "quote": "A good plan is sometimes just a brave first step."
+  },
+  {
+    "id": 6,
+    "name": "Virginia Woolf",
+    "book": "Mrs Dalloway",
+    "quote": "Some thoughts arrive softly and stay for years."
+  },
+  {
+    "id": 7,
+    "name": "Franz Kafka",
+    "book": "The Metamorphosis",
+    "quote": "A strange morning is still a morning worth exploring."
+  },
+  {
+    "id": 8,
+    "name": "Agatha Christie",
+    "book": "Murder on the Orient Express",
+    "quote": "Every little detail has somewhere it needs to be."
+  },
+  {
+    "id": 9,
+    "name": "Leo Tolstoy",
+    "book": "War and Peace",
+    "quote": "Kindness can travel farther than any hurried word."
+  },
+  {
+    "id": 10,
+    "name": "Oscar Wilde",
+    "book": "The Picture of Dorian Gray",
+    "quote": "A little imagination makes an ordinary day brighter."
+  }
+]
