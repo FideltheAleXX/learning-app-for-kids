@@ -1,13 +1,25 @@
 .sidebarSection {
   display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   font-size: 20px;
   line-height: 24px;
+  position: sticky;
+  top: 0;
+  left: 0;
+  height: 100vh;
 }
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+.sidebarItem {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.75rem;
 }
 
 .sidebarItem a {

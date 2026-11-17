@@ -1,64 +1,92 @@
 [
   {
     "id": 1,
-    "name": "Chuck Pallanick",
-    "book": "Kolobok",
-    "tag": "",
-    "time": "",
-    "quote": "Hello. What did I see? - Nothing"
+    "name": "Dr. Seuss",
+    "book": "The Cat in the Hat",
+    "tag": "@dr_seuss",
+    "time": "5h",
+    "level": "1",
+    "quote": "The sun did not shine. It was too wet to play. So we sat in the house All that cold, cold, wet day."
   },
   {
     "id": 2,
-    "name": "Jane Austen",
-    "book": "Pride and Prejudice",
-    "quote": "A quiet morning can change the shape of an entire day."
+    "name": "Eric Carle",
+    "book": "The Very Hungry Caterpillar",
+    "tag": "@eric_carle",
+    "time": "5h",
+    "level": "1",
+    "quote": "In the light of the moon a little egg lay on a leaf."
   },
   {
     "id": 3,
-    "name": "George Orwell",
-    "book": "Animal Farm",
-    "quote": "Even the smallest voice can make a room feel less empty."
+    "name": "Maurice Sendak",
+    "book": "Where the Wild Things Are",
+    "tag": "@maurice_sendak",
+    "time": "5h",
+    "level": "1",
+    "quote": "And Max, the king of all wild things, was lonely."
   },
   {
     "id": 4,
-    "name": "Mary Shelley",
-    "book": "Frankenstein",
-    "quote": "The night was dark, but curiosity carried a lantern."
+    "name": "Mo Willems",
+    "book": "Elephant & Piggie",
+    "tag": "@mo_willems",
+    "time": "5h",
+    "level": "1",
+    "quote": "Today I will fly, - said Piggie. - No. You will not fly today, - said Elephant."
   },
   {
     "id": 5,
-    "name": "Mark Twain",
-    "book": "The Adventures of Tom Sawyer",
+    "name": "Arnold Lobel",
+    "book": "Frog and Toad",
+    "tag": "@arnold_lobel",
+    "time": "5h",
+    "level": "1",
     "quote": "A good plan is sometimes just a brave first step."
   },
   {
     "id": 6,
-    "name": "Virginia Woolf",
-    "book": "Mrs Dalloway",
+    "name": "Julia Donaldson",
+    "book": "The Gruffalo",
+    "tag": "@jukia_donaldson",
+    "time": "5h",
+    "level": "1",
     "quote": "Some thoughts arrive softly and stay for years."
   },
   {
     "id": 7,
-    "name": "Franz Kafka",
-    "book": "The Metamorphosis",
+    "name": "Judith Kerr",
+    "book": "The Tiger Who Came to Tea",
+    "tag": "@judith_kerr",
+    "time": "5h",
+    "level": "1",
     "quote": "A strange morning is still a morning worth exploring."
   },
   {
     "id": 8,
-    "name": "Agatha Christie",
-    "book": "Murder on the Orient Express",
+    "name": "Michael Rosen",
+    "book": "We're Going on a Bear Hunt",
+    "tag": "@michael_rosen",
+    "time": "5h",
+    "level": "1",
     "quote": "Every little detail has somewhere it needs to be."
   },
   {
     "id": 9,
-    "name": "Leo Tolstoy",
-    "book": "War and Peace",
+    "name": "Allan & Janet Ahlberg",
+    "book": "Peepo!, Funnybones",
+    "tag": "@allan&janet_ahlberg",
+    "time": "5h",
+    "level": "1",
     "quote": "Kindness can travel farther than any hurried word."
   },
   {
     "id": 10,
-    "name": "Oscar Wilde",
-    "book": "The Picture of Dorian Gray",
+    "name": "Jill Murphy",
+    "book": "The Worst Witch",
+    "tag": "@julia_murphy",
+    "time": "5h",
+    "level": "1",
     "quote": "A little imagination makes an ordinary day brighter."
   }
 ]

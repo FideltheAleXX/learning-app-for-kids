@@ -34,6 +34,10 @@ export default function Content() {
     );
   return (
     <section className={styles.contentSection}>
+      <div className={styles.contentHeader}>
+        <button className={styles.contentHeaderBtn}>For you</button>
+        <button className={styles.contentHeaderBtn}>Following</button>
+      </div>
       {writers.map((writer) => (
         <PostCard key={writer.id} writer={writer} />
       ))}

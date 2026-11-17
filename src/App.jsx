@@ -1,16 +1,15 @@
 import './App.css';
 import Content from './components/Content';
-import Header from './components/Header';
 import HomeSidebar from './components/HomeSidebar';
+import Search from './components/Search';
 
 function App() {
   return (
     <div className="container">
-      <Header />
       <main className="main">
         <HomeSidebar />
         <Content />
-        <div className="info">info</div>
+        <Search />
       </main>
     </div>
   );

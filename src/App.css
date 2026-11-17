@@ -16,17 +16,13 @@ body {
   margin-inline: auto;
   display: flex;
   flex-direction: column;
-  padding: 0.5rem;
 }
 
 .main {
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
   gap: 8px;
-}
-
-.info {
-  flex: 1;
+  position: relative;
 }
 
 .errorMessage {

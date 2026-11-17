@@ -1,0 +1,30 @@
+.searchSection {
+  display: flex;
+  align-items: center;
+  align-self: start;
+  gap: 4px;
+  padding: 0.5rem;
+  border-radius: 24px;
+  border: 1px solid;
+  border-color: var(--shadow);
+  position: sticky;
+  top: 0;
+}
+
+.searchIcon {
+  display: flex;
+  flex: 0 0 auto;
+  color: var(--text-main);
+}
+
+.searchInput {
+  flex: 1;
+  border: none;
+  padding: 8px 16px;
+  background-color: var(--bg-main);
+}
+
+.searchInput:focus {
+  outline: 2px solid var(--shadow);
+  background-color: var(--bg-card);
+}

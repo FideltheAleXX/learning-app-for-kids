@@ -15,12 +15,12 @@ export default function PostCard({ writer }) {
         <FaUserAstronaut size={32} />
       </div>
       <div className={styles.post}>
-        <div className={styles.up}>
+        <div className={styles.top}>
           <div className={styles.leftUp}>
             <div>{writer.name}</div>
-            <div>Tag</div>
+            <div>{writer.tag}</div>
             <span>·</span>
-            <div>Time_of_Post</div>
+            <div>{writer.time}</div>
           </div>
           <div>
             <SlUserFollow />
