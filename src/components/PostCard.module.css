@@ -35,6 +35,14 @@
   gap: 4px;
 }
 
+.tag {
+  color: var(--shadow);
+}
+
+.time {
+  color: var(--shadow);
+}
+
 .textOfCard {
   font-size: 16px;
   line-height: 20px;

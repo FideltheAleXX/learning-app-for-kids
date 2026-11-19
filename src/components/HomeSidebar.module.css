@@ -20,6 +20,13 @@ ul {
   display: flex;
   gap: 0.5rem;
   padding: 0.75rem;
+  border-radius: 1.75rem;
+}
+
+.sidebarItem:hover {
+  background-color: var(--primary-clr);
+  color: var(--primary-clr-text);
+  font-weight: 700;
 }
 
 .sidebarItem a {

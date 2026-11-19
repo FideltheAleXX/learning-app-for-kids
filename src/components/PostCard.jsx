@@ -18,9 +18,9 @@ export default function PostCard({ writer }) {
         <div className={styles.top}>
           <div className={styles.leftUp}>
             <div>{writer.name}</div>
-            <div>{writer.tag}</div>
+            <div className={styles.tag}>{writer.tag}</div>
             <span>·</span>
-            <div>{writer.time}</div>
+            <div className={styles.time}>{writer.time}</div>
           </div>
           <div>
             <SlUserFollow />
