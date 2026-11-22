@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import MainPage from './pages/MainPage';
 import TrendingsPage from './pages/TrendingsPage';
@@ -7,10 +7,11 @@ import HistoryPage from './pages/HistoryPage';
 import SettingsPage from './pages/SettingsPage';
 import MorePage from './pages/MorePage';
 import ProfilePage from './pages/ProfilePage';
+import NotFoundPage from './pages/NotFoundPage';
 
 function App() {
   return (
-    <BrowserRouter>
+    <div className="container">
       <Routes>
         <Route index element={<MainPage />} />
         <Route path="trendings" element={<TrendingsPage />} />
@@ -19,11 +20,9 @@ function App() {
         <Route path="settings" element={<SettingsPage />} />
         <Route path="more" element={<MorePage />} />
         <Route path="profile" element={<ProfilePage />} />
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
-    </BrowserRouter>
-    // <div className="container">
-    //
-    // </div>
+    </div>
   );
 }
 
